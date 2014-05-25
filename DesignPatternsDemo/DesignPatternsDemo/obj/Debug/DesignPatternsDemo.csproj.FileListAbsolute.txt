@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2012\Projects\DesignPatternsDemo\DesignPatternsDemo\bin\Debug\DesignPatternsDemo.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\DesignPatternsDemo\DesignPatternsDemo\bin\Debug\DesignPatternsDemo.exe
+c:\users\administrator\documents\visual studio 2012\Projects\DesignPatternsDemo\DesignPatternsDemo\bin\Debug\DesignPatternsDemo.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\DesignPatternsDemo\DesignPatternsDemo\obj\Debug\DesignPatternsDemo.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\DesignPatternsDemo\DesignPatternsDemo\obj\Debug\DesignPatternsDemo.exe
+c:\users\administrator\documents\visual studio 2012\Projects\DesignPatternsDemo\DesignPatternsDemo\obj\Debug\DesignPatternsDemo.pdb
